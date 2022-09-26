@@ -12,6 +12,6 @@
   "dependencies": {
     "amqplib": "^0.5.6",
     "nodemailer": "^6.4.10",
-    "nodemailer-mailgun-transport": "^2.0.0"
+    "nodemailer-mailgun-transport": "^2.1.5"
   }
 }
